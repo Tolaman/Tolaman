@@ -6,7 +6,7 @@ I am originally from the Democratic Republic of Congo and currently reside in Ca
 Skills: Django / Python / JS / HTML / CSS
 
 - 🔭 I’m currently working on mkaing a web app for the company Invision 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and SQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tolaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/michée-luzayisu/)  
