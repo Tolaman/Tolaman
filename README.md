@@ -5,11 +5,11 @@ I am originally from the Democratic Republic of Congo and currently reside in Ca
 
 But My final gaol is to become a Data Scientist
 
-Skills: Django / Python / SQL / JS / HTML / CSS
+Skills: Django / Python / SQL / JS / HTML / CSS / Sass
 
-- 🔭 I’m currently working on building my portfolio and also looking for a internship. feel free to contactT me
+- 🔭 I’m currently working on a mining website for a big company as a freelance and also looking for a internship. feel free to contactT me
 - 🌱 i'm learning React
-- 🌳 I.ve done got many certificates on RDBMS and I’m still currently learning some other factor of SQL
+- 🌳 I.ve got many certificates on RDBMS and I’m still currently learning some other factor of SQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tolaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/michée-luzayisu/)  
