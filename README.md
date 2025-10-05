@@ -5,7 +5,7 @@ I am originally from the Democratic Republic of Congo and currently reside in Ca
 
 But My final gaol is to become a Data Scientist
 
-Skills: Django / Python / SQL / JS / HTML / CSS / Sass
+Skills: Django / ReactJS / Python / SQL / JS / CSS / Sass
 
 - 🔭 I’m currently working on a mining website for a big company as a freelance and also looking for a internship. feel free to contactT me
 - 🌱 i'm learning React
