@@ -2,7 +2,6 @@
 <h3 align="center">Full-stack Developer</h3>
 
 I am a fullstack web developer, I work currently as a freelancer and I am also a third-year student at Cape Peninsula University of Technology (CPUT), where I am studying Information and Communication Technology (ICT) with a focus on Application Development (AppDev).
-present the activities that the church community provides
 
 - 🔭 I’m currently working on **building a website for a church**
 
@@ -10,7 +9,7 @@ present the activities that the church community provides
 
 - 👯 I’m looking to **work as a junior dev**
 
-- - 🌳 I finished building a website for a company as the only dev, check it out [here](https://kitservicesarl.org)
+- 🌳 I finished building a website for a company as the only dev, check it out [here](https://kitservicesarl.org)
 
 - 👨‍💻 All of my projects are available at [NewWork](NewWork)
 
