@@ -23,11 +23,23 @@ I enjoy building modern apps and am constantly learning new technologies and fun
 
 ## 🚀 Featured Project
 
-### **🧱[Kit Service Sarl](https://kitservicesarl.org)**
-A complete website built for a construction company.  
-**Role:** Full-Stack Developer  
-**Tech Used:** React, Django, JavaScript, CSS, Bootstrap  
-**Note:** Private project — code not publicly available.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="Kit Sertvice Sarl Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Kit Service Sarl</b><br/>
+      <sub>A complete website built for a construction company.</sub><br/>
+      🔗 <a href="https://kitservicesarl.org">Link</a>
+      <br/>
+      <sub>Tech Used: React, Django, JavaScript, CSS, Bootstrap</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
