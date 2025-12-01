@@ -26,8 +26,8 @@ I enjoy building modern apps and am constantly learning new technologies and fun
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+      <a href="https://kitservicesarl.org">
+        <img src="https://github.com/Tolaman/Tolaman/blob/main/kitservicesarl.jpeg"
              alt="Kit Sertvice Sarl Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
