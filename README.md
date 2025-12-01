@@ -34,6 +34,7 @@ I enjoy building modern apps and am constantly learning new technologies and fun
       <br/>
       <b>Kit Service Sarl</b><br/>
       <sub>A complete website built for a construction company.</sub><br/>
+      <sub>Role: Full-Stack Developer .</sub><br/>
       🔗 <a href="https://kitservicesarl.org">Link</a>
       <br/>
       <sub>Tech Used: React, Django, JavaScript, CSS, Bootstrap</sub>
