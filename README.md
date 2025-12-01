@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Michee Luzayisu 👋</h1>
+<h1 align="center">Hey, I'm Michée Luzayisu 👋</h1>
 <h3 align="center">Full-Stack Developer | ICT Student (CPUT)</h3>
 
 ---
@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me  
 I am a full-stack web developer currently working as a freelancer and a third-year student at the Cape Peninsula University of Technology (CPUT).  
 I’m studying Information and Communication Technology (ICT) with a focus on Application Development (AppDev).  
-I enjoy building modern, functional, and user-friendly digital experiences.
+I enjoy building modern apps and am constantly learning new technologies and functionalities.
 
 ---
 
@@ -17,7 +17,7 @@ I enjoy building modern, functional, and user-friendly digital experiences.
 
 ## 🚀 Featured Project
 
-### **🧱 Kit Service Sarl**
+### **🧱[Kit Service Sarl](https://kitservicesarl.org)**
 A complete website built for a construction company.  
 **Role:** Full-Stack Developer  
 **Tech Used:** React, Django, JavaScript, CSS, Bootstrap  
@@ -41,15 +41,3 @@ A complete website built for a construction company.
 <a href="https://instagram.com/https://www.instagram.com/michemakaya11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/michemakaya11/" height="30" width="40" /></a>
 <a href="https://medium.com/@michemakaya11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michemakaya11" height="30" width="40" /></a>
 </p>  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tolaman&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolaman&layout=compact" alt="Top Languages" />
-</p>
-
