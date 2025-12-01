@@ -10,24 +10,9 @@ I enjoy building modern, functional, and user-friendly digital experiences.
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Languages and Tools
 
-### **Languages**
-- JavaScript  
-- Python  
-- HTML  
-- CSS  
-
-### **Frameworks & Libraries**
-- React  
-- Django  
-- Sass  
-- Bootstrap  
-
-### **Tools**
-- Git  
-- Figma  
-
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,react,django,sass,html,css,git,bootstrap,figma)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Project
@@ -51,16 +36,11 @@ A complete website built for a construction company.
 ---
 
 ## 🌐 Connect With Me
-
-- **GitHub:** https://github.com/Tolaman  
-- **LinkedIn:** https://www.linkedin.com/in/michée-luzayisu/  
-- **Instagram:** https://www.instagram.com/michemakaya11/  
-- **Email:** michemakaya11@gmail.com  
-
----
-
-## ✨ Quote
-> “Code is like art — the beauty is in how it all comes together.”
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michée-luzayisu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michée-luzayisu/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/michemakaya11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/michemakaya11/" height="30" width="40" /></a>
+<a href="https://medium.com/@michemakaya11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michemakaya11" height="30" width="40" /></a>
+</p>  
 
 ---
 
